@@ -1,15 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rattatammanoon (Topzson)
 ================================================================================================================================================
 
-Full Stack Developer & Software Engineer
-----------------------------------------
-
-Full Stack Developer & Software Engineer I graduated in computer engineering at Suranaree University of Technology, Thailand.
-
-* 🌍  I'm based in Bangkok Capital of Thailand
-* 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/rattatammanoon-prawasuk/)
-* 🧠  I'm learning Web Application & Blockchain Technology (Web3).
-
 ### Skills
 
 
