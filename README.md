@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rattatammanoon (Topz)
 ================================================================================================================================================
 ### Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b96401b3-249a-404e-ad83-916380171d68" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <b>My GitHub Stats</b>
 <p align="center">
