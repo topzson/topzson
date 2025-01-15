@@ -54,9 +54,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.credly.com/badges/4a8a3180-8c62-4b51-aff3-bc488fff3b68/public_url"><img height="120px" src="https://images.credly.com/size/680x680/images/6b8bfb64-2354-479e-8a22-b644440ae848/image.png" alt="topzson's GitHub stats" /></a>
 <a href="https://www.credly.com/badges/cdb299bc-8bdd-4705-881a-a812499769a6/public_url"><img height="120px" src="https://images.credly.com/size/680x680/images/7d4f3235-b70f-48eb-9b59-3c3e3a4933e1/image.png" alt="topzson's GitHub stats" /></a>
 <a href="https://www.credly.com/badges/c915f7c5-4dfb-4025-9f48-c275093b378b/public_url"><img height="120px" src="https://images.credly.com/size/680x680/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="topzson's GitHub stats" /></a>
-<a href="https://www.credly.com/badges/c915f7c5-4dfb-4025-9f48-c275093b378b/public_url"><img height="120px" src="https://images.credly.com/size/680x680/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="topzson's GitHub stats" /></a>
-<a href="https://www.credly.com/badges/c915f7c5-4dfb-4025-9f48-c275093b378b/public_url"><img height="120px" src="https://images.credly.com/size/680x680/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="topzson's GitHub stats" /></a>
-<a href="https://www.credly.com/badges/c915f7c5-4dfb-4025-9f48-c275093b378b/public_url"><img height="120px" src="https://images.credly.com/size/680x680/images/5ee26427-f944-4182-b802-459462184c9a/image.png" alt="topzson's GitHub stats" /></a>
+
 
 ### Socials
 
