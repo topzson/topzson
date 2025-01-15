@@ -2,6 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================================
 ### Badges
 <a href="https://www.credly.com/badges/b96401b3-249a-404e-ad83-916380171d68/public_url"><img height="150px" src="https://images.credly.com/size/680x680/images/49ecade1-d65c-4f13-8573-9601844d54f9/image.png" alt="topzson's GitHub stats" /></a>
+<a href="https://www.credly.com/badges/a7bb226d-259f-4e0f-83fa-2c6630cd2f58/public_url"><img height="150px" src="https://images.credly.com/size/680x680/images/2313e36b-9375-4d07-8381-a54a5cde56af/image.png" alt="topzson's GitHub stats" /></a>
+<a href="https://www.credly.com/badges/96606da6-69da-40a0-b172-e5993fdf0be9/public_url"><img height="150px" src="https://images.credly.com/size/680x680/images/c9828408-be6b-4ffa-8984-451ee3935d67/image.png" alt="topzson's GitHub stats" /></a>
+<a href="https://www.credly.com/badges/2028dbd1-875f-4c66-8ec6-711af6b08392/public_url"><img height="150px" src="https://images.credly.com/size/680x680/images/5d7726dd-2df3-4d19-8597-73c0adb2e84c/image.png" alt="topzson's GitHub stats" /></a>
+<a href="https://www.credly.com/badges/84134d42-82d5-4ba6-b133-ee9528c65057/public_url"><img height="150px" src="https://images.credly.com/size/680x680/images/bb33cc4f-0f86-4195-a6e5-f4b71d142cd1/image.png" alt="topzson's GitHub stats" /></a>
+<a href="https://www.credly.com/badges/65d5c876-2097-4670-9771-40a2232f5cdf/public_url"><img height="150px" src="https://images.credly.com/size/680x680/images/7cbb2fc6-84eb-416d-8bd1-813fba86c259/image.png" alt="topzson's GitHub stats" /></a>
+<a href="https://www.credly.com/badges/4a8a3180-8c62-4b51-aff3-bc488fff3b68/public_url"><img height="150px" src="https://images.credly.com/size/680x680/images/6b8bfb64-2354-479e-8a22-b644440ae848/image.png" alt="topzson's GitHub stats" /></a>
 
 <b>My GitHub Stats</b>
 
