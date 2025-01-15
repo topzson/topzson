@@ -1,9 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rattatammanoon (Topz)
 ================================================================================================================================================
 ### Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b96401b3-249a-404e-ad83-916380171d68" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/b96401b3-249a-404e-ad83-916380171d68/public_url"><img height="150px" src="https://images.credly.com/size/680x680/images/49ecade1-d65c-4f13-8573-9601844d54f9/image.png" alt="topzson's GitHub stats" /></a>
 
 <b>My GitHub Stats</b>
+
 <p align="center">
 <a href="http://www.github.com/topzson" ><img height="150px" src="https://github-readme-stats.vercel.app/api?username=topzson&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="topzson's GitHub stats" /> <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=topzson&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
